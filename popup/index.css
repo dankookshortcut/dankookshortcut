@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800");
+
+사이드바에서_열기 {
+  font-size: 29px;
+  font-family: "NanumGothic";
+  color: rgb(226, 62, 41);
+  font-weight: bold;
+  line-height: 7.586;
+  text-align: left;
+  moz-transform: scale(1, 1.05);
+  webkit-transform: scale(1, 1.05);
+  ms-transform: scale(1, 1.05);
+  position: absolute;
+  left: 238.523px;
+  top: 775.627px;
+  z-index: 17;
+}
+러닝엑스 {
+  background-image: url("러닝엑스.png");
+  position: absolute;
+  left: 41px;
+  top: 562px;
+  width: 411px;
+  height: 80px;
+  z-index: 16;
+}
+도서관 {
+  font-size: 29px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 7.586;
+  moz-transform: scale(1, 1.05);
+  webkit-transform: scale(1, 1.05);
+  ms-transform: scale(1, 1.05);
+  position: absolute;
+  left: 374.66px;
+  top: 606.643px;
+  z-index: 15;
+}
+수강신청 {
+  font-size: 29px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 7.586;
+  moz-transform: scale(1, 1.05);
+  webkit-transform: scale(1, 1.05);
+  ms-transform: scale(1, 1.05);
+  position: absolute;
+  left: 202.862px;
+  top: 606.682px;
+  z-index: 14;
+}
+이러닝 {
+  font-size: 58.756px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 3.744;
+  moz-transform: matrix( 0.49356632210377,0,0,0.51824463820896,0,0);
+  webkit-transform: matrix( 0.49356632210377,0,0,0.51824463820896,0,0);
+  ms-transform: matrix( 0.49356632210377,0,0,0.51824463820896,0,0);
+  position: absolute;
+  left: 10.512px;
+  top: 607.657px;
+  z-index: 13;
+}
+웹정보 {
+  font-size: 58.778px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 3.743;
+  moz-transform: matrix( 0.49338178419764,0,0,0.51805087340752,0,0);
+  webkit-transform: matrix( 0.49338178419764,0,0,0.51805087340752,0,0);
+  ms-transform: matrix( 0.49338178419764,0,0,0.51805087340752,0,0);
+  position: absolute;
+  left: 329.546px;
+  top: 411.637px;
+  z-index: 12;
+}
+웹메일 {
+  font-size: 58px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 3.806;
+  moz-transform: matrix( 0.50167295951374,0,0,0.52675660748943,0,0);
+  webkit-transform: matrix( 0.50167295951374,0,0,0.52675660748943,0,0);
+  ms-transform: matrix( 0.50167295951374,0,0,0.52675660748943,0,0);
+  position: absolute;
+  left: 174.193px;
+  top: 409.581px;
+  z-index: 11;
+}
+포털공지 {
+  font-size: 60px;
+  font-family: "NanumGothic";
+  color: rgb(229, 203, 112);
+  font-weight: bold;
+  line-height: 3.677;
+  moz-transform: matrix( 0.48471638867093,0,0,0.50895220810448,0,0);
+  webkit-transform: matrix( 0.48471638867093,0,0,0.50895220810448,0,0);
+  ms-transform: matrix( 0.48471638867093,0,0,0.50895220810448,0,0);
+  position: absolute;
+  left: -18.935px;
+  top: 411.6px;
+  z-index: 10;
+}
+도서관 {
+  background-image: url("도서관.png");
+  position: absolute;
+  left: 356px;
+  top: 357px;
+  width: 117px;
+  height: 124px;
+  z-index: 9;
+}
+수강신청 {
+  background-image: url("수강신청.png");
+  position: absolute;
+  left: 184px;
+  top: 346px;
+  width: 142px;
+  height: 145px;
+  z-index: 8;
+}
+이러닝 {
+  background-image: url("이러닝.png");
+  position: absolute;
+  left: 26px;
+  top: 357px;
+  width: 133px;
+  height: 125px;
+  z-index: 7;
+}
+웹메일 {
+  background-image: url("웹메일.png");
+  position: absolute;
+  left: 188px;
+  top: 158px;
+  width: 130px;
+  height: 138px;
+  z-index: 6;
+}
+포털공지 {
+  background-image: url("포털공지.png");
+  position: absolute;
+  left: 31px;
+  top: 166px;
+  width: 125px;
+  height: 121px;
+  z-index: 5;
+}
+웹정보 {
+  background-image: url("웹정보.png");
+  position: absolute;
+  left: 344px;
+  top: 147px;
+  width: 135px;
+  height: 162px;
+  z-index: 4;
+}
+로고2 {
+  background-image: url("로고2.png");
+  position: absolute;
+  left: 179px;
+  top: 56px;
+  width: 293px;
+  height: 58px;
+  z-index: 3;
+}
+로고1 {
+  background-image: url("로고1.png");
+  position: absolute;
+  left: -42px;
+  top: 35px;
+  width: 272px;
+  height: 94px;
+  z-index: 2;
+}
+배경 {
+  background-image: url("배경.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 488px;
+  height: 840px;
+  z-index: 1;
+}
