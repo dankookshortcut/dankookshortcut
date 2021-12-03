@@ -9,8 +9,8 @@
 		
 "icons":{
   "16": "./icons/대표아이콘.png",
-  "48": "./icons/example.png",
-  "128": "./icons/example.png"
+  "48": "./icons/대표아이콘.png",
+  "128": "./icons/대표아이콘.png"
 }
 	
 "default_locale":"ko",
