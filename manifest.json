@@ -21,7 +21,7 @@
 "browser_action": {
    "default_popup": "./popup/index.html",
    "default_icon": {
-       "16": "./icon/대표아이콘.png"
+       "16": "./icons/대표아이콘.png"
    }
  }
 }
